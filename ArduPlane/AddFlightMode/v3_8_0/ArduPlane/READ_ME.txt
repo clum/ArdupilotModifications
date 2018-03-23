@@ -1,0 +1,1 @@
+In this example, we add a flight mode called 'UWSTABILIZE'.
