@@ -1,0 +1,1 @@
+This contains files showing the minimal amount of modifications need to enable new functionality to the ArduPlane firmware. 
